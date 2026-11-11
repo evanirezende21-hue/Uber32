@@ -1,1 +1,15 @@
-
+{
+  "name": "Uber 32",
+  "short_name": "Uber32",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#212121",
+  "theme_color": "#ffc107",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png",
+      "sizes": "25x41",
+      "type": "image/png"
+    }
+  ]
+}
